@@ -73,7 +73,7 @@ Y= A⊕B
 ![Screenshot 2024-11-06 112017](https://github.com/user-attachments/assets/78eac536-d318-460e-8218-4ee5f3ea587d)
 
 ### TIMING DIAGRAM :
--![Screenshot 2024-11-06 112605](https://github.com/user-attachments/assets/7a8cf345-0a7c-4155-b231-487453a5f8c2)
+![Screenshot 2024-11-06 112605](https://github.com/user-attachments/assets/1a5e978f-e970-4205-af37-05562abc163a)
 
 ### Result:
  Studied and verified the truth table of logic gates in Quartus II using Verilog programming
